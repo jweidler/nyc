@@ -95,7 +95,7 @@
     "rimraf": "^2.6.2",
     "signal-exit": "^3.0.2",
     "spawn-wrap": "^1.4.2",
-    "test-exclude": "github:jweidler/istanbuljs",
+    "test-exclude": "github:jweidler/test-exclude",
     "yargs": "11.1.0",
     "yargs-parser": "^9.0.2"
   },
